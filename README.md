@@ -1,5 +1,6 @@
 Here is the link you can Check it Out here : https://thamaraiselvi2109.github.io/Todo-Application-using-React-redux/
 <img src="https://github.com/Thamaraiselvi2109/Todo-Application-using-React-redux/blob/gh-pages/todo-list.png" alt="project screenshot">
+<br><br><br>
 Implemented a todo list component in React. User can add, mark todos as completed
 1. Each todo object  have a text property and a completed property.
 2. Displaying the list of todos.Each todo displayed as a checkbox with the todo text as its label.
